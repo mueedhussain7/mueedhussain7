@@ -75,6 +75,18 @@
 
 ---
 
+## 📊 Most Used Languages
+
+<div align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mueedhussain7&layout=compact&theme=radical&hide_border=true" 
+    alt="Top Languages" 
+    height="170" 
+  />
+</div>
+
+---
+
 <!-- 🌍 Dynamic Footer -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=900&color=00F5A0&center=true&vCenter=true&width=600&lines=🚀+Exploring+AI-driven+Automation;🧩+Building+Full-Stack+Systems;📚+Always+Learning+Something+New!" alt="Typing SVG" />
