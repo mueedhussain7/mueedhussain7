@@ -5,8 +5,6 @@
 
 ---
 
----
-
 ## 🧠 About Me
 
 🎓 Computer Science graduate pursuing M.Sc. in Applied Artificial Intelligence at Oslo Metropolitan University.  
