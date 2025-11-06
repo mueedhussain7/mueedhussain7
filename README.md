@@ -41,14 +41,14 @@
 
   <!-- Frontend -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" title="React" width="48" height="48" style="margin:6px"/>
-  <img src="https://cdn.simpleicons.org/nextdotjs/000000/white" alt="Next.js" title="Next.js" width="48" height="48" style="margin:6px; background-color:white; border-radius:8px; padding:6px;"/>
+  <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" title="Next.js" width="48" height="48" style="margin:6px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="TailwindCSS" title="TailwindCSS" width="48" height="48" style="margin:6px"/>
 
   <!-- Backend -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="FastAPI" title="FastAPI" width="48" height="48" style="margin:6px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" title="Node.js" width="48" height="48" style="margin:6px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express.js" title="Express.js" width="48" height="48" style="margin:6px; filter: invert(100%);"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" alt="Nest.js" title="Nest.js" width="48" height="48" style="margin:6px"/>
+  <img src="https://skillicons.dev/icons?i=nestjs" alt="Nest.js" title="Nest.js" width="48" height="48" style="margin:6px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" alt=".NET Core" title=".NET Core" width="48" height="48" style="margin:6px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" title="Spring Boot" width="48" height="48" style="margin:6px"/>
 
@@ -62,7 +62,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" title="Kubernetes" width="48" height="48" style="margin:6px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" alt="Jenkins" title="Jenkins" width="48" height="48" style="margin:6px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" title="GitHub" width="48" height="48" style="margin:6px"/>
-  <img src="https://cdn.simpleicons.org/amazonaws/232F3E/F8991D" alt="AWS" title="AWS" width="48" height="48" style="margin:6px; background-color:white; border-radius:8px; padding:6px;"/>
+  <img src="https://skillicons.dev/icons?i=aws" alt="AWS" title="AWS" width="48" height="48" style="margin:6px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="Azure" title="Azure" width="48" height="48" style="margin:6px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" alt="Terraform" title="Terraform" width="48" height="48" style="margin:6px"/>
 
