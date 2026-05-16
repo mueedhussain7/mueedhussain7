@@ -22,7 +22,7 @@ Created an IoT based monitoring platform for tracking indoor air quality in real
 
 Worked on a multimodal classification system that combines text and image understanding under severe class imbalance conditions. Spent most of the time improving model robustness and macro F1 performance across minority classes.
 
-## Tech I Work With
+## Tech I've Worked With
 
 ### Languages
 
