@@ -24,17 +24,12 @@ Worked on a multimodal classification system that combines text and image unders
 
 ## Tech I've worked with
 
-### Languages **Python · TypeScript · JavaScript · C# · Java**
-
-### AI / ML **PyTorch · TensorFlow · scikit-learn · Hugging Face · CNNs · RAG Systems**
-
-### Backend & Infrastructure **FastAPI · Node.js · Express.js · NestJS · .NET · Spring Boot**
-
-### Data & Databases **PostgreSQL · MySQL · MongoDB · Redis**
-
-### Cloud & DevOps **Docker · Kubernetes · AWS · Azure · Terraform · Jenkins · GitHub Actions**
-
-### Frontend **React · Next.js · Tailwind CSS**
+### Languages <b>Python · TypeScript · JavaScript · C# · Java</b>
+### AI / ML <b>PyTorch · TensorFlow · scikit-learn · Hugging Face · CNNs · RAG Systems</b>
+### Backend & Infrastructure <b>FastAPI · Node.js · Express.js · NestJS · .NET · Spring Boot</b>
+### Data & Databases <b>PostgreSQL · MySQL · MongoDB · Redis</b>
+### Cloud & DevOps <b>Docker · Kubernetes · AWS · Azure · Terraform · Jenkins · GitHub Actions</b>
+### Frontend <b>React · Next.js · Tailwind CSS</b>
 
 ## What I'm Interested In Right Now
 
