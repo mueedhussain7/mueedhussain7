@@ -1,92 +1,61 @@
-<!-- 🌟 Animated Greeting -->
-<h1 align="center">
-  Hi there 👋 I'm <span style="color:#00F7FF">Mueed Hussain</span>
-</h1>
+# Hi, I'm Mueed Hussain 👋
 
----
+I'm a Computer Science graduate currently pursuing an M.Sc. in Applied Artificial Intelligence at Oslo Metropolitan University.
 
-## 🧠 About Me
+I enjoy building systems that combine AI, backend engineering, and real time infrastructure. Most of my projects are centered around practical applications where reliability, scalability, and clean system design matter just as much as the model itself.
 
-🎓 Computer Science graduate pursuing M.Sc. in Applied Artificial Intelligence at Oslo Metropolitan University.  
-💡 Passionate about Generative AI, LLMs, and intelligent automation.  
-🚀 Focused on building full-stack systems that integrate modern web technologies with AI-driven workflows.  
-🧩 Always exploring ways to combine automation, cloud infrastructure, and AI for real-world impact.
+## What I've Been Building
 
----
+### Hallucination Aware RAG System
 
-## 🧰 Skills & Technologies
+Built a Retrieval Augmented Generation system that automatically updates its knowledge base and includes an evaluation dashboard for tracking hallucinations and response quality. Focused heavily on retrieval accuracy, ingestion pipelines, and evaluation workflows.
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&width=600&lines=💡+Full-Stack+Development;🧩+Applied+AI+%26+Automation;⚙️+Cloud+%26+DevOps;🚀+Continuous+Innovation" alt="Typing SVG" />
-</p>
+### Real Time Telemetry System
 
-<hr/>
+Developed a telemetry backend in C# that collects live data from IoT devices over TCP and stores it in PostgreSQL for monitoring and analysis.
 
-<p align="center"><strong>🛠️ Technologies I Work With</strong></p>
+### Smart Indoor Air Quality Monitoring System
 
-<p align="center">
-  <!-- Languages -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" title="TypeScript" width="48" height="48" style="margin:6px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" width="48" height="48" style="margin:6px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" title="Java" width="48" height="48" style="margin:6px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" title="C#" width="48" height="48" style="margin:6px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" title="Python" width="48" height="48" style="margin:6px"/>
+Created an IoT based monitoring platform for tracking indoor air quality in real time using connected sensors, backend ingestion services, and live dashboards.
 
-  <!-- Frontend -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" title="React" width="48" height="48" style="margin:6px"/>
-  <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" title="Next.js" width="48" height="48" style="margin:6px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="TailwindCSS" title="TailwindCSS" width="48" height="48" style="margin:6px"/>
+### Multimodal Hate Speech Detection
 
-  <!-- Backend -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="FastAPI" title="FastAPI" width="48" height="48" style="margin:6px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" title="Node.js" width="48" height="48" style="margin:6px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express.js" title="Express.js" width="48" height="48" style="margin:6px; filter: invert(100%);"/>
-  <img src="https://skillicons.dev/icons?i=nestjs" alt="Nest.js" title="Nest.js" width="48" height="48" style="margin:6px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" alt=".NET Core" title=".NET Core" width="48" height="48" style="margin:6px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" title="Spring Boot" width="48" height="48" style="margin:6px"/>
+Worked on a multimodal classification system that combines text and image understanding under severe class imbalance conditions. Spent most of the time improving model robustness and macro F1 performance across minority classes.
 
-  <!-- Databases -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" title="PostgreSQL" width="48" height="48" style="margin:6px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" title="MySQL" width="48" height="48" style="margin:6px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" title="MongoDB" width="48" height="48" style="margin:6px"/>
+## Tech I Work With
 
-  <!-- DevOps & Cloud -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" title="Docker" width="48" height="48" style="margin:6px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" title="Kubernetes" width="48" height="48" style="margin:6px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" alt="Jenkins" title="Jenkins" width="48" height="48" style="margin:6px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" title="GitHub" width="48" height="48" style="margin:6px"/>
-  <img src="https://skillicons.dev/icons?i=aws" alt="AWS" title="AWS" width="48" height="48" style="margin:6px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="Azure" title="Azure" width="48" height="48" style="margin:6px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" alt="Terraform" title="Terraform" width="48" height="48" style="margin:6px"/>
+### Languages
 
-  <!-- AI & Automation -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" title="TensorFlow" width="48" height="48" style="margin:6px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch" title="PyTorch" width="48" height="48" style="margin:6px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" title="NumPy" width="48" height="48" style="margin:6px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" title="Pandas" width="48" height="48" style="margin:6px"/>
-</p>
+Python · TypeScript · JavaScript · C# · Java
 
----
+### AI / ML
 
-## 📊 Most Used Languages
+PyTorch · TensorFlow · scikit learn · Hugging Face · CNNs · RAG Systems
 
-<div align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mueedhussain7&layout=compact&theme=radical&hide_border=true" 
-    alt="Top Languages" 
-    height="170" 
-  />
-</div>
+### Backend & Infrastructure
 
----
+FastAPI · Node.js · Express.js · Nest.js · .NET · Spring Boot
 
-<!-- 🌍 Dynamic Footer -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=900&color=00F5A0&center=true&vCenter=true&width=600&lines=🚀+Exploring+AI-driven+Automation;🧩+Building+Full-Stack+Systems;📚+Always+Learning+Something+New!" alt="Typing SVG" />
-</p>
+### Data & Databases
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/mueedhussain7/">LinkedIn</a> • 
-  <a href="mailto:mueedhussain7@gmail.com">Email</a> • 
-  <a href="https://github.com/mueedhussain7">GitHub</a>
-</p>
+PostgreSQL · MySQL · MongoDB · Redis
+
+### Cloud & DevOps
+
+Docker · Kubernetes · AWS · Azure · Terraform · Jenkins · GitHub Actions
+
+### Frontend
+
+React · Next.js · Tailwind CSS
+
+## What I'm Interested In Right Now
+
+Right now I'm spending a lot of time thinking about retrieval systems, intelligent automation, and AI systems that can run reliably outside controlled environments. I'm also interested in real time data systems and connected infrastructure through IoT and telemetry platforms.
+
+## A Bit More About Me
+
+I usually approach AI from a systems perspective. I care about how things are designed, how they scale, and whether they can handle real world usage instead of just working in isolated demos.
+
+Most of what I've learned has come from building projects outside coursework and experimenting with different ways to combine software engineering, infrastructure, and applied AI.
+
+LinkedIn • Email • GitHub
