@@ -23,13 +23,12 @@ Created an IoT based monitoring platform for tracking indoor air quality in real
 Worked on a multimodal classification system that combines text and image understanding under severe class imbalance conditions. Spent most of the time improving model robustness and macro F1 performance across minority classes.
 
 ## Tech I've worked with
-
-### Languages <b>Python · TypeScript · JavaScript · C# · Java</b>
-### AI / ML <b>PyTorch · TensorFlow · scikit-learn · Hugging Face · CNNs · RAG Systems</b>
-### Backend & Infrastructure <b>FastAPI · Node.js · Express.js · NestJS · .NET · Spring Boot</b>
-### Data & Databases <b>PostgreSQL · MySQL · MongoDB · Redis</b>
-### Cloud & DevOps <b>Docker · Kubernetes · AWS · Azure · Terraform · Jenkins · GitHub Actions</b>
-### Frontend <b>React · Next.js · Tailwind CSS</b>
+**Languages:** Python · TypeScript · JavaScript · C# · Java  
+**AI / ML:** PyTorch · TensorFlow · scikit-learn · Hugging Face · CNNs · RAG Systems  
+**Backend & Infrastructure:** FastAPI · Node.js · Express.js · NestJS · .NET · Spring Boot  
+**Data & Databases:** PostgreSQL · MySQL · MongoDB · Redis  
+**Cloud & DevOps:** Docker · Kubernetes · AWS · Azure · Terraform · Jenkins · GitHub Actions  
+**Frontend:** React · Next.js · Tailwind CSS 
 
 ## What I'm Interested In Right Now
 
