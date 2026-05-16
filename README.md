@@ -58,4 +58,4 @@ I usually approach AI from a systems perspective. I care about how things are de
 
 Most of what I've learned has come from building projects outside coursework and experimenting with different ways to combine software engineering, infrastructure, and applied AI.
 
-LinkedIn • Email • GitHub
+📫 [LinkedIn](https://www.linkedin.com/in/mueedhussain7/) • [Email](mailto:mueedhussain7@gmail.com)
