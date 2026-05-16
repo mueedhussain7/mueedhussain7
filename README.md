@@ -2,7 +2,7 @@
 
 I'm a Computer Science graduate currently pursuing an M.Sc. in Applied Artificial Intelligence at Oslo Metropolitan University.
 
-I enjoy building systems that combine AI, backend engineering, and real time infrastructure. Most of my projects are centered around practical applications where reliability, scalability, and clean system design matter just as much as the model itself.
+I enjoy building systems that combine AI, backend engineering and real time infrastructure. Most of my projects are centered around practical applications where reliability, scalability and clean system design matter just as much as the model itself.
 
 ## What I've Been Building
 
@@ -50,12 +50,12 @@ React · Next.js · Tailwind CSS
 
 ## What I'm Interested In Right Now
 
-Right now I'm spending a lot of time thinking about retrieval systems, intelligent automation, and AI systems that can run reliably outside controlled environments. I'm also interested in real time data systems and connected infrastructure through IoT and telemetry platforms.
+I'm interested in how modern AI systems are evolving beyond single models into full agentic workflows. I've been exploring retrieval augmented generation, multimodal systems, local AI deployment and the infrastructure needed to make AI applications reliable at scale. I'm also interested in how recent advances in open source models, reasoning systems, and AI automation are changing the way intelligent software is built and deployed.
 
 ## A Bit More About Me
 
-I usually approach AI from a systems perspective. I care about how things are designed, how they scale, and whether they can handle real world usage instead of just working in isolated demos.
+I usually approach AI from a systems perspective. I care about how things are designed, how they scale and whether they can handle real world usage instead of just working in isolated demos.
 
-Most of what I've learned has come from building projects outside coursework and experimenting with different ways to combine software engineering, infrastructure, and applied AI.
+Most of what I've learned has come from building projects outside coursework and experimenting with different ways to combine software engineering, infrastructure and applied AI.
 
 📫 [LinkedIn](https://www.linkedin.com/in/mueedhussain7/) • [Email](mailto:mueedhussain7@gmail.com)
